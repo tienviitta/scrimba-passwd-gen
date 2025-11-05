@@ -1,1 +1,1 @@
-# scrimba-passwd-gen
+# Scrimba challenge: Password Generator
