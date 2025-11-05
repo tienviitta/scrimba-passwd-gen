@@ -13,6 +13,7 @@ body {
   align-items: center;
   background-color: var(--ash-gray);
   font-family: "Google Sans Code", sans-serif;
+  text-shadow: 0px 0px 2px black;
 }
 
 h1 {
